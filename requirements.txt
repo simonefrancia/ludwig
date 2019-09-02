@@ -13,8 +13,8 @@ tabulate>=0.7
 tensorflow==1.14.0
 PyYAML>=3.12
 pytest
-fastapi
 pydantic==0.32.2
+fastapi
 uvicorn
 python-multipart
 soundfile
